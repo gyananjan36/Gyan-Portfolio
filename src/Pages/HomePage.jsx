@@ -366,7 +366,7 @@ function HomePage() {
                 <span>+91-81360 46564 · Bengaluru, India</span>
               </div>
             </a>
-            <a href="https://www.linkedin.com/in/gyananjan-bhattacharjee/" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://www.linkedin.com/in/gyananjan-bhattacharjee-779791141/" target="_blank" rel="noreferrer" className="contact-link">
               <div className="contact-link-icon">in</div>
               <div className="contact-link-text">
                 <strong>LinkedIn</strong>
